@@ -15,3 +15,4 @@ Hoje, o Git é essencial para versionamento de código, controle de mudanças, t
 O git é fixe esta é uma nova frase 1234
 
 Faltava um espaço na frase de cima
+sim. 
